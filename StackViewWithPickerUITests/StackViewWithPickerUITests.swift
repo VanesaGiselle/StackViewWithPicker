@@ -2,7 +2,7 @@
 //  StackViewWithPickerUITests.swift
 //  StackViewWithPickerUITests
 //
-//  Created by Emiliano on 18/01/2022.
+//  Created by Vanesa Korbenfeld on 18/01/2022.
 //
 
 import XCTest
