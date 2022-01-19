@@ -24,3 +24,4 @@ La app busca crear un layout vertical centrado con botones, un texto y la elecci
 - Run (Control + R).
 
 ## ScreenShots
+![ezgif-7-48ab758abb](https://user-images.githubusercontent.com/91626112/150181831-7c64f9d8-d85c-47b6-9d28-f7c653eb5818.gif)
